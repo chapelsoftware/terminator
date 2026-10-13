@@ -95,6 +95,7 @@ DEFAULTS = {
             'scroll_tabbar'         : False,
             'homogeneous_tabbar'    : True,
             'new_tab_button'        : False,
+            'always_show_tabbar'    : False,
             'hide_from_taskbar'     : False,
             'always_on_top'         : False,
             'hide_on_lose_focus'    : False,

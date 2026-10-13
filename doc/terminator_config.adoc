@@ -127,6 +127,11 @@ Default value: *False*
 If set to True, a button to open a new tab is shown at the end of the tab bar. +
 Default value: *False*
 
+*always_show_tabbar* = _boolean_::
+If set to True, the tab bar is shown even when a window only has one tab.
+If set to False, the tab bar is only shown once a second tab is opened. +
+Default value: *False*
+
 === Terminal Behavior & Appearance
 
 // --- Terminal behavior ---
